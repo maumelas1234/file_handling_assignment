@@ -1,0 +1,6 @@
+This is the first line of text.
+Here is a number: 42
+And this is the third line.
+Appending a new line: Hello World!
+Another number: 123
+Yet another line to add.
